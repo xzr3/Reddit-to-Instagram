@@ -1,3 +1,4 @@
+import PIL
 from PIL import Image
 
 def resize(image_pil, width, height, submission_id):
